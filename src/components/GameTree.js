@@ -436,7 +436,7 @@ export const GAME_DATA = {
   },
   DGS_V32: {
     videoID: 38,
-    defaultNext: 39,
+    defaultNext: 40,
   },
   DGS_V33: {
     videoID: 39,

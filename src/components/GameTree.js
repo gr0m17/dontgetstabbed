@@ -65,7 +65,7 @@ export const GAME_DATA = {
       b4: {
         now: 1,
         name: "Fridge",
-        videoID: 24,
+        videoID: 30,
         cpuOffset: function () {
           return 0;
         },
